@@ -1,0 +1,7 @@
+*.json
+*.log
+*.tar.gz
+*.zip
+states.json
+data/
+__pycache__/
